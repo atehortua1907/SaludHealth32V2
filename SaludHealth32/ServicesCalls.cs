@@ -14,6 +14,8 @@ using SaludHealth32.ISVC.CrearPaciente;
 using SaludHealth32.ISVC.BuscarPaciente;
 using SaludHealth32.ISVC.ActualizarPaciente;
 
+// Clase donde se llaman los servicios
+
 namespace SaludHealth32.FrontEnd
 {
     public class ServicesCalls
