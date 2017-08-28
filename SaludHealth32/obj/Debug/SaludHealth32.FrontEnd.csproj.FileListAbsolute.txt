@@ -1,0 +1,61 @@
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmActualizarPaciente.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmBuscarPacienteId.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmListadoPacientes.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrmMain.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmPacienteNuevo.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.Properties.Resources.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csproj.GenerateResource.Cache
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.exe.config
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.exe
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.pdb
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.FrontEnd.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.BackEnd.DAC.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.Common.BE.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.Svc.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.BackEnd.DAC.pdb
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.Common.BE.pdb
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\SaludHealth32.Svc.pdb
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.xml
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmActualizarPaciente.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmBuscarPacienteId.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmListadoPacientes.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrmMain.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmPacienteNuevo.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.Properties.Resources.resources
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csproj.GenerateResource.Cache
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.exe
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.pdb
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.Connector.dll
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.Connector.xml
+C:\Users\alvaro.catano\Documents\Visual Studio 2012\Projects\SaludHealth32 - copia\SaludHealth32\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.exe.config
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.exe
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.pdb
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.exe
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.FrontEnd.pdb
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Fwk.Bases.Connector.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Fwk.Bases.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.BackEnd.DAC.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.Common.BE.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.Svc.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.BackEnd.DAC.pdb
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.Common.BE.pdb
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\SaludHealth32.Svc.pdb
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Fwk.Bases.xml
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Fwk.Bases.Connector.xml
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\bin\Debug\Fwk.Bases.Connector.XmlSerializers.dll
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmPacienteNuevo.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmActualizarPaciente.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmBuscarPacienteId.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.FrmListadoPacientes.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrmMain.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.Properties.Resources.resources
+C:\Users\angel.graciano\Desktop\David A\Ejemplos C# Arquitecto\Proyecto Hospital\SaludHealth32V2\SaludHealth32\obj\Debug\SaludHealth32.FrontEnd.csproj.GenerateResource.Cache

@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludHealth32.FrontEnd", "SaludHealth32\SaludHealth32.FrontEnd.csproj", "{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludHealth32.BackEnd.DAC", "SaludHealth32.BackEnd.DAC\SaludHealth32.BackEnd.DAC.csproj", "{10001C5D-D836-44A1-915D-E7E6E3C2A5C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludHealth32.Common.BE", "SaludHealth32.Common.BE\SaludHealth32.Common.BE.csproj", "{1C8F7579-9507-4394-9C30-A518EF3FF285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaludHealth32.Svc", "SaludHealth32.Svc\SaludHealth32.Svc.csproj", "{AA93DF4A-076D-495B-A6A7-AD805D2022EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10001C5D-D836-44A1-915D-E7E6E3C2A5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10001C5D-D836-44A1-915D-E7E6E3C2A5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10001C5D-D836-44A1-915D-E7E6E3C2A5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10001C5D-D836-44A1-915D-E7E6E3C2A5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8F7579-9507-4394-9C30-A518EF3FF285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8F7579-9507-4394-9C30-A518EF3FF285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8F7579-9507-4394-9C30-A518EF3FF285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8F7579-9507-4394-9C30-A518EF3FF285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA93DF4A-076D-495B-A6A7-AD805D2022EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA93DF4A-076D-495B-A6A7-AD805D2022EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA93DF4A-076D-495B-A6A7-AD805D2022EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA93DF4A-076D-495B-A6A7-AD805D2022EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

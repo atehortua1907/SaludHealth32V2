@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1EFEABE8-3486-4ED0-92EA-5B37B5702A8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SaludHealth32.FrontEnd</RootNamespace>
+    <AssemblyName>SaludHealth32.FrontEnd</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fwk.Bases, Version=12.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Librerias\Fwk.Bases.dll</HintPath>
+    </Reference>
+    <Reference Include="Fwk.Bases.Connector">
+      <HintPath>..\..\SaludHealth32\Librerias\Fwk.Bases.Connector.dll</HintPath>
+    </Reference>
+    <Reference Include="Fwk.Bases.FrontEnd">
+      <HintPath>..\..\..\..\Caso Estudio\Capacitacion_Konecta\Librerias\Fwk.Bases.FrontEnd.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="capacitacionDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>capacitacionDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPacienteNuevo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPacienteNuevo.Designer.cs">
+      <DependentUpon>FrmPacienteNuevo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmActualizarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmActualizarPaciente.Designer.cs">
+      <DependentUpon>FrmActualizarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBuscarPacienteId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBuscarPacienteId.Designer.cs">
+      <DependentUpon>FrmBuscarPacienteId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListadoPacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListadoPacientes.Designer.cs">
+      <DependentUpon>FrmListadoPacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServicesCalls.cs" />
+    <EmbeddedResource Include="FrmPacienteNuevo.resx">
+      <DependentUpon>FrmPacienteNuevo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmActualizarPaciente.resx">
+      <DependentUpon>FrmActualizarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBuscarPacienteId.resx">
+      <DependentUpon>FrmBuscarPacienteId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListadoPacientes.resx">
+      <DependentUpon>FrmListadoPacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="capacitacionDataSet4.xsc">
+      <DependentUpon>capacitacionDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="capacitacionDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>capacitacionDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="capacitacionDataSet4.xss">
+      <DependentUpon>capacitacionDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ServiceMetadataConfig_colombia.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SaludHealth32.BackEnd.DAC\SaludHealth32.BackEnd.DAC.csproj">
+      <Project>{10001c5d-d836-44a1-915d-e7e6e3c2a5c6}</Project>
+      <Name>SaludHealth32.BackEnd.DAC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SaludHealth32.Common.BE\SaludHealth32.Common.BE.csproj">
+      <Project>{1c8f7579-9507-4394-9c30-a518ef3ff285}</Project>
+      <Name>SaludHealth32.Common.BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SaludHealth32.Svc\SaludHealth32.Svc.csproj">
+      <Project>{aa93df4a-076d-495b-a6a7-ad805d2022ec}</Project>
+      <Name>SaludHealth32.Svc</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

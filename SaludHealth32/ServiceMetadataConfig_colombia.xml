@@ -1,0 +1,28 @@
+<ServiceConfigurationCollection>
+  <ServiceConfiguration name="BuscarPacienteSVC">
+    <EntityState>Unchanged</EntityState>
+    <CreatedUserName>moviedo</CreatedUserName>
+    <CreatedDateTime>2016-07-28T16:40:29.5659301-05:00</CreatedDateTime>
+    <Handler>SaludHealth32.Svc.BuscarPacienteSVC, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>SaludHealth32.ISVC.BuscarPacienteReq, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>SaludHealth32.ISVC.uscarPacienteRes, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>capacitacion</ApplicationId>
+  </ServiceConfiguration>
+  <!--<ServiceConfiguration name="ValidarNumeroRefSVC">
+    <EntityState>Unchanged</EntityState>
+    <CreatedUserName>moviedo</CreatedUserName>
+    <CreatedDateTime>2016-07-28T16:40:29.5659301-05:00</CreatedDateTime>
+    <Handler>SaludHealth32.Svc.BuscarPacienteSVC, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Handler>
+    <Request>SaludHealth32.ISVC.BuscarPacienteReq, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Request>
+    <Response>SaludHealth32.ISVC.uscarPacienteRes, SaludHealth32.SVC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Response>
+    <Available>true</Available>
+    <Audit>false</Audit>
+    <TransactionalBehaviour>Suppres</TransactionalBehaviour>
+    <IsolationLevel>ReadUncommitted</IsolationLevel>
+    <ApplicationId>capacitacion</ApplicationId>
+  </ServiceConfiguration>-->
+  </ServiceConfigurationCollection>
